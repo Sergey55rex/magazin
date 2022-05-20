@@ -1,5 +1,4 @@
-{
-    "products": [{
+[{
             "image": "1.jpg",
             "name": "eeeeee",
             "price": "100",
@@ -64,4 +63,3 @@
         }
 
     ]
-}
